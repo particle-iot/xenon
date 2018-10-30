@@ -1,6 +1,6 @@
 # Xenon
 
-<div align=center><img src="https://github.com/particle-iot/xenon/images/xenon/xenon-top.png" ></div>
+<div align=center><img src="https://github.com/particle-iot/xenon/images/xenon-top.png" ></div>
 
 ### Overview
 
